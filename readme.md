@@ -58,6 +58,13 @@ yarn install
 
 </br>
 
+- Inicialize a Fake API
+```
+yarn server
+```
+
+</br>
+
 - Execute o projeto
 ```
 yarn dev
