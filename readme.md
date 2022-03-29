@@ -22,7 +22,7 @@
 *__* é uma aplicação. 
 
 <p align="center">
-  <img width="auto" src="https://user-images.githubusercontent.com/41172933/160209054-0cc586ec-f9d9-4645-a441-bf3a1a92e4a9.gif"/>
+  <img width="auto" src=""/>
 </p>
 
 </br>
