@@ -19,18 +19,17 @@
 
 ## :speech_balloon: Sobre o desafio
 
-*__* é uma aplicação. 
+*WatchMe* é uma aplicação que consome uma Fake API para listar filmes de acordo com gênero. 
 
 <p align="center">
-  <img width="auto" src=""/>
+  <img width="auto" src="https://user-images.githubusercontent.com/41172933/160656278-24ba43b5-d8c3-48a9-8d3b-103cdbde7b9f.gif"/>
 </p>
 
 </br>
 
-:dart: Para treinar um pouco mais a __ no React, foi disponibilizado um [template](https://github.com/rocketseat-education/ignite-template-componentizando-a-aplicacao) com o esqueleto da aplicação e o desafio era implementar as seguintes funcionalidades: 
-- __
-- __
-- __
+:dart: Foi disponibilizado um [template](https://github.com/rocketseat-education/ignite-template-componentizando-a-aplicacao) com a aplicação já funcionando, mas era necessário fazer a refatoração do código, criando os seguintes componentes:
+- Sidebar
+- Conteúdo principal que possui o header e a listagem de filmes.
 
 ## :rocket: Como executar 
 
@@ -84,5 +83,3 @@ yarn dev
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-# 🚧 README EM CONSTRUÇÂO 🚧
