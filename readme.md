@@ -1,7 +1,7 @@
 ![logo](https://user-images.githubusercontent.com/41172933/160193998-cb892ea9-6eb1-472d-aa97-539fc92ba8ed.png)
 
 <h3 align="center">
-🏆 Desafio 01: Conceitos do React
+🏆 Desafio 02: Componentizando a aplicação
 </h3>
 
 <p align="center">
@@ -19,18 +19,18 @@
 
 ## :speech_balloon: Sobre o desafio
 
-*to.do* é uma aplicação onde seu principal objetivo é gerenciar atividades a fazer. 
+*__* é uma aplicação. 
 
 <p align="center">
-  <img width="auto" src="https://user-images.githubusercontent.com/41172933/160209054-0cc586ec-f9d9-4645-a441-bf3a1a92e4a9.gif"/>
+  <img width="auto" src=""/>
 </p>
 
 </br>
 
-:dart: Para treinar um pouco mais a manipulação de estado no React, foi disponibilizado um [template](https://github.com/rocketseat-education/ignite-template-reactjs-conceitos-do-react) com o esqueleto da aplicação e o desafio era implementar as seguintes funcionalidades: 
-- Adicionar uma nova tarefa
-- Remover uma tarefa
-- Marcar e desmarcar uma tarefa como concluída
+:dart: Para treinar um pouco mais a __ no React, foi disponibilizado um [template](https://github.com/rocketseat-education/ignite-template-componentizando-a-aplicacao) com o esqueleto da aplicação e o desafio era implementar as seguintes funcionalidades: 
+- __
+- __
+- __
 
 ## :rocket: Como executar 
 
@@ -39,14 +39,14 @@
 - Clone este repositório
 
 ```
-git clone https://github.com/braiancalot/rocketseat-react-desafio-01
+git clone https://github.com/braiancalot/rocketseat-react-desafio-02
 ```
 
 </br>
 
 - Navegue até o diretório principal do projeto
 ```
-cd rocketseat-react-desafio-01
+cd rocketseat-react-desafio-02
 ```
 
 </br>
@@ -77,3 +77,5 @@ yarn dev
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+# 🚧 README EM CONSTRUÇÂO 🚧
